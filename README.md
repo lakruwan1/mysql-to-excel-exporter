@@ -83,11 +83,8 @@ mysql_to_excel(
 - Use environment variables or secure credential management
 - Limit database user permissions to read-only access
 
-## License
-[Insert your license here, e.g., MIT, Apache 2.0]
-
 ## Contributing
 Contributions are welcome! Please submit pull requests or open issues on the repository.
 
 ## Author
-[Your Name]
+Lakruwan Kasun
